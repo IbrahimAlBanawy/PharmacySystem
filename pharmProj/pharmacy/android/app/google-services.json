@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644863113200",
+    "project_id": "pharmacysystem-eedbb",
+    "storage_bucket": "pharmacysystem-eedbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644863113200:android:536db5320871025578cf35",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqaymVL9XDc9iu_uoubyw_GwOEqgfJ2Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
